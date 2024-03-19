@@ -1,0 +1,53 @@
+[
+    {
+      "courseName": "Dr.Gugan",
+      "timing": "Monday, Wednesday, Friday 6:00 PM - 7:00 PM",
+      "duration": "Accepted"
+    },
+    {
+      "courseName": "Dr.Midhun",
+      "timing": "Tuesday, Thursday 5:00 PM - 7:00 PM",
+      "duration": "Accepted"
+    },
+    {
+      "courseName": "Dr.Hariharan",
+      "timing": "Saturday 10:00 AM - 12:00 PM",
+      "duration": "Accepted"
+    },
+    {
+      "courseName": "Dr.Aravind",
+      "timing": "Sunday 2:00 PM - 4:00 PM",
+      "duration": "Accepted"
+    },
+    {
+      "courseName": "Dr.VS",
+      "timing": "Monday, Wednesday 4:00 PM - 6:00 PM",
+      "duration": "Accepted"
+    },
+    {
+      "courseName": "Dr.Krishnan",
+      "timing": "Friday 7:00 PM - 9:00 PM",
+      "duration": "Accepted"
+    },
+    {
+      "courseName": "Dr.muthu",
+      "timing": "Tuesday 6:00 PM - 8:00 PM",
+      "duration": "Rejected"
+    },
+    {
+      "courseName": "Dr.Aaakash",
+      "timing": "Thursday 7:00 PM - 9:00 PM",
+      "duration": "Rejected"
+    },
+    {
+      "courseName": "Dr.rajesh",
+      "timing": "Wednesday 5:00 PM - 7:00 PM",
+      "duration": "Rejected"
+    },
+    {
+      "courseName": "Dr.Guru",
+      "timing": "Saturday, Sunday 3:00 PM - 5:00 PM",
+      "duration": "Accepted"
+    }
+  ]
+  
